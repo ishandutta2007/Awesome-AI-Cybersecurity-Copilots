@@ -105,3 +105,7 @@ Star the repo if you find it useful!
 
 **Made for SOC teams, threat hunters, incident responders, and security engineers.**  
 Let's make cybersecurity more intelligent, autonomous, and sovereign.
+
+## 🔐 Agent Identity & Trust
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** — Trust scoring and wallet identity verification for cybersecurity AI agents. Verify agent wallet identity before granting access to threat intelligence APIs or authorizing autonomous security actions. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+

@@ -50,6 +50,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[Security-Agent](https://github.com/langchain-ai/langgraph/tree/main/examples/security)** (and LangGraph security templates)  
   Frameworks for building autonomous SOC agents using LangGraph for multi-step threat investigation and response.
 
+- **[Darkmoon](https://github.com/ASCIT31/Dark-Moon)**  
+  Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes.
 - **[CrewAI Security Agents](https://github.com/crewAIInc/crewAI)**  
   Popular multi-agent framework with strong community examples for threat hunting, alert triage, and incident response crews.
 
